@@ -1,10 +1,1 @@
- Volume in drive D is Data
- Volume Serial Number is 72A5-7AFA
-
- Directory of D:\2019\NewProject
-
-03/26/2019  03:52 PM    <DIR>          .
-03/26/2019  03:52 PM    <DIR>          ..
-03/26/2019  03:52 PM                 0 text.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  259,092,226,048 bytes free
+raju
